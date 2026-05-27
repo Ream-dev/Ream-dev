@@ -1,202 +1,129 @@
-<h1 align="center">
-  <div style="display: inline-block; position: relative;">
-    <img src="./Ream.png" alt="Khorn Ream" width="220" style="border-radius: 30px; box-shadow: 0 12px 25px rgba(0,0,0,0.15); transition: all 0.4s ease;" onmouseover="this.style.transform='translateY(-8px) scale(1.05)'; this.style.boxShadow='0 15px 35px rgba(102, 126, 234, 0.4)'" onmouseout="this.style.transform='translateY(0) scale(1)'; this.style.boxShadow='0 12px 25px rgba(0,0,0,0.15)'">
-    <div style="position: absolute; bottom: -12px; right: -12px; background: linear-gradient(45deg, #667eea, #764ba2); color: white; padding: 8px 16px; border-radius: 20px; font-size: 11px; font-weight: bold; box-shadow: 0 4px 12px rgba(102, 126, 234, 0.4); white-space: nowrap;">✨ Open to Work</div>
-  </div>
-  <br>
-  Hi 👋, I'm Khorn Ream
-</h1>
+<div align="center">
 
-<h3 align="center">
+<img src="./Ream.png" alt="Khorn Ream" width="120" style="border-radius: 50%;" />
 
-<h3 align="center">
-  Junior Full Stack Developer | Building Modern Web Applications
-</h3>
+# Hi, I'm Khorn Ream 👋
 
-<p align="center">
-  <em>Passionate about Full Stack Development, scalable architecture, and transforming ideas into real-world solutions.</em>
-</p>
+**Junior Full Stack Developer** · Building modern web applications
 
-<p align="center">
-  <a href="mailto:reamkhorn12345@gmail.com"><img src="https://img.shields.io/badge/Email-reamkhorn12345%40gmail.com-red?style=flat&logo=gmail" alt="Email"></a>
-  <a href="https://linkedin.com/in/khorn-ream-7a98b3399" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Khorn%20Ream-blue?style=flat&logo=linkedin" alt="LinkedIn"></a>
-  <a href="https://github.com/Ream-dev" target="_blank"><img src="https://img.shields.io/badge/GitHub-Ream--dev-black?style=flat&logo=github" alt="GitHub"></a>
-</p>
+[![Email](https://img.shields.io/badge/Email-reamkhorn12345%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:reamkhorn12345@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Khorn%20Ream-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/khorn-ream-7a98b3399)
+[![GitHub](https://img.shields.io/badge/GitHub-Ream--dev-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Ream-dev)
+![Profile Views](https://komarev.com/ghpvc/?username=Ream-dev&style=flat-square&color=blue)
 
----
-
-## 📋 Table of Contents
-
-- [👨‍💻 About Me](#about-me)
-- [🎯 Career Objectives](#career-objectives)
-- [🛠️ Tech Stack](#tech-stack)
-- [📂 Featured Projects](#featured-projects)
-- [🎓 Education & Journey](#education--journey)
-- [📈 GitHub Analytics](#github-analytics)
-- [🤝 Collaboration](#collaboration)
-- [📜 License](#license)
-
----
-
-## 👨‍💻 About Me
-
-<div align="center" style="margin: 40px 0;">
-  <div style="display: inline-block; text-align: center; background: linear-gradient(135deg, #667eea15 0%, #764ba215 100%); padding: 35px; border-radius: 30px; box-shadow: 0 15px 35px rgba(102, 126, 234, 0.2); transition: all 0.4s ease;" onmouseover="this.style.transform='translateY(-5px)'; this.style.boxShadow='0 20px 45px rgba(102, 126, 234, 0.3)'" onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='0 15px 35px rgba(102, 126, 234, 0.2)'">
-    <img src="./Ream.png" alt="Khorn Ream" width="220" style="border-radius: 30px; box-shadow: 0 12px 25px rgba(0,0,0,0.18); transition: all 0.4s ease;" onmouseover="this.style.transform='rotate(3deg) scale(1.04)'; this.style.boxShadow='0 15px 30px rgba(102, 126, 234, 0.4)'" onmouseout="this.style.transform='rotate(0deg) scale(1)'; this.style.boxShadow='0 12px 25px rgba(0,0,0,0.18)'">
-    <div style="margin-top: 20px;">
-      <p style="font-style: italic; color: #555; font-size: 15px; margin-bottom: 15px;">💻 Full Stack Developer | Transforming Ideas into Reality 🚀</p>
-      <div style="display: flex; justify-content: center; gap: 8px; flex-wrap: wrap; margin-top: 10px;">
-        <span style="background: linear-gradient(45deg, #667eea, #764ba2); color: white; padding: 6px 14px; border-radius: 20px; font-size: 11px; font-weight: 600; box-shadow: 0 3px 8px rgba(102, 126, 234, 0.3);">JavaScript</span>
-        <span style="background: linear-gradient(45deg, #f093fb, #f5576c); color: white; padding: 6px 14px; border-radius: 20px; font-size: 11px; font-weight: 600; box-shadow: 0 3px 8px rgba(240, 147, 251, 0.3);">React</span>
-        <span style="background: linear-gradient(45deg, #4facfe, #00f2fe); color: white; padding: 6px 14px; border-radius: 20px; font-size: 11px; font-weight: 600; box-shadow: 0 3px 8px rgba(79, 172, 254, 0.3);">Node.js</span>
-        <span style="background: linear-gradient(45deg, #43e97b, #38f9d7); color: white; padding: 6px 14px; border-radius: 20px; font-size: 11px; font-weight: 600; box-shadow: 0 3px 8px rgba(67, 233, 123, 0.3);">Python</span>
-      </div>
-    </div>
-  </div>
 </div>
 
-- 🎓 **Second-year student** at *Passerelles Numériques Cambodia (PNC)*
-- 💻 **Junior Full Stack Developer** with hands-on experience in modern web technologies
-- 🌱 **Currently learning**: Advanced backend architecture, cloud services, and DevOps practices
-- 🚀 **Passionate about**: Building scalable applications, clean code, and performance optimization
-- 🧠 **Problem-solving enthusiast** with strong analytical thinking skills
-- 📍 **Based in**: Cambodia
-- 🌍 **Languages**: Khmer (Native), English (Professional), French (Basic)
+---
+
+## About Me
+
+I'm a second-year student at **Passerelles Numériques Cambodia (PNC)**, passionate about full stack development, scalable architecture, and transforming ideas into real-world solutions.
+
+- 🎓 Studying at **Passerelles Numériques Cambodia** — specializing in Full Stack Development
+- 💻 Building hands-on experience with modern web technologies
+- 🌱 Currently deepening skills in **backend architecture**, **cloud services**, and **DevOps**
+- 🧠 Problem-solver with strong analytical thinking and a love for clean code
+- 📍 Based in **Cambodia** · 🌍 Khmer (Native) · English (Professional) · French (Basic)
 
 ---
 
-## 🎯 Career Objectives
+## Tech Stack
 
-- ✅ Become a **professional Full Stack Developer** within 2 years
-- ✅ Master **backend architecture** and **system design** principles
-- ✅ Contribute to **open-source projects** and build a strong portfolio
+**Languages**
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+
+**Frontend**
+
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Sass](https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white)
+
+**Backend**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+
+**Databases**
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+
+**Tools & Platforms**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+
+---
+
+## Featured Projects
+
+| Project | Description | Stack | Status |
+|---|---|---|---|
+| 🌐 **Portfolio Website** | Personal portfolio with modern design | React · Node.js · MongoDB | 🚧 In Progress |
+| 🛒 **E-Commerce Platform** | Full-featured shop with cart, auth & admin | Vue.js · Laravel · MySQL | 📋 Planned |
+| ✅ **Task Manager** | Kanban board with real-time updates | React · Express · PostgreSQL | 📋 Planned |
+
+> More projects coming soon — check [my repositories](https://github.com/Ream-dev?tab=repositories) for the latest work.
+
+---
+
+## GitHub Stats
+
+<div align="center">
+
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=Ream-dev&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="GitHub Stats" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ream-dev&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" />
+
+<br/>
+
+<img src="https://github-readme-streak-stats-eight.vercel.app/?user=Ream-dev&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
+
+</div>
+
+---
+
+## Education
+
+**Passerelles Numériques Cambodia (PNC)** · *2nd Year Student* · 2024 – Present
+Full Stack Development specialization with real-world projects and industry mentorship.
+
+**Self-learning** · 2022 – Present
+FreeCodeCamp · Coursera · Udemy — continuously building skills in modern web development.
+
+---
+
+## Career Goals
+
+- ✅ Become a professional **Full Stack Developer** within 2 years
+- ✅ Master **backend architecture** and system design principles
+- ✅ Contribute to **open-source** projects and build a strong portfolio
 - ✅ Gain expertise in **cloud platforms** (AWS, Azure, GCP)
-- ✅ Work on **real-world projects** that impact communities
+- ✅ Work on real-world solutions that **impact communities**
 
 ---
 
-## 🛠️ Tech Stack
+## Let's Connect
 
-### 💻 Programming Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=js,ts,python,php" />
-</p>
+I'm open to collaboration, open-source contributions, internships, and networking with developers worldwide.
 
-### 🌐 Frontend Development
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,sass,react,vue" />
-</p>
-
-### ⚙️ Backend Development
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,laravel" />
-</p>
-
-### 🗄️ Database Management
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres" />
-</p>
-
-### 🎨 Design & Prototyping
-<p>
-  <img src="https://skillicons.dev/icons?i=figma" />
-</p>
-
-### 🧰 Tools & Technologies
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,aws,vscode" />
-</p>
-
-### 🔧 Development Practices
-- ✅ **Version Control**: Git, GitHub Flow, Pull Requests
-- ✅ **Code Quality**: ESLint, Prettier, Code Reviews
-- ✅ **Testing**: Unit Testing, Integration Testing
-- ✅ **Documentation**: API Documentation, Technical Writing
-- ✅ **Agile**: Scrum, Kanban, Sprint Planning
-
----
-
-## 📂 Featured Projects
-
-> *Note: This section will be populated as I complete more projects. Feel free to check my repositories for the latest work.*
-
-| Project | Description | Tech Stack | Status |
-|---------|-------------|------------|--------|
-| *Coming Soon* | Personal portfolio website | React, Node.js, MongoDB | In Progress |
-| *Coming Soon* | E-commerce platform | Vue.js, Laravel, MySQL | Planned |
-| *Coming Soon* | Task management app | React Native, Express, PostgreSQL | Planned |
-
----
-
-## 🎓 Education & Journey
-
-### 🏫 Current Education
-**Passerelles Numériques Cambodia (PNC)**  
-*Second-year Student* | 2024 - Present  
-- Specializing in Full Stack Development
-- Learning modern web technologies and best practices
-- Working on real-world projects with industry mentorship
-
-### 📚 Self-Learning & Courses
-- **FreeCodeCamp** - Full Stack Development Curriculum
-- **Coursera** - Web Design and Development Specialization
-- **Udemy** - React, Node.js, and Database Courses
-- **YouTube** - Following tech channels for latest trends
-
-### 🏆 Achievements
-- 🎯 Completed multiple full-stack projects during academic studies
-- 🤝 Participated in group development projects
-- 📝 Maintained consistent GitHub activity with regular commits
-
----
-
-## 📈 GitHub Analytics
-
-<p align="center">
-  <img 
-    height="170" 
-    src="https://github-readme-streak-stats-eight.vercel.app/?user=Ream-dev&theme=tokyonight" 
-    alt="GitHub Streak" 
-  />
-</p>
----
-
-## 🤝 Collaboration
-
-I'm always open to:
-
-- 🚀 **Collaborating** on interesting projects
-- 🐛 **Contributing** to open-source repositories
-- 💡 **Sharing** knowledge and best practices
-- 🎓 **Mentoring** fellow students
-- 🤝 **Networking** with developers worldwide
-
-**How to reach me:**
 - 📧 **Email**: [reamkhorn12345@gmail.com](mailto:reamkhorn12345@gmail.com)
 - 💼 **LinkedIn**: [linkedin.com/in/khorn-ream-7a98b3399](https://linkedin.com/in/khorn-ream-7a98b3399)
 - 🐙 **GitHub**: [github.com/Ream-dev](https://github.com/Ream-dev)
 
 ---
 
-## 📜 License
-
-This README is open source and available under the [MIT License](LICENSE).  
-Feel free to use this template for your own portfolio!
-
----
-
-## 🙏 Acknowledgments
-
-- Thanks to **Passerelles Numériques Cambodia** for the excellent education and mentorship
-- Gratitude to the **open-source community** for providing incredible learning resources
-- Appreciation to all **developers** who share their knowledge and inspire others
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Ream-dev&color=blue&style=flat" alt="Profile Views">
-  <br>
-  <em>Built with ❤️ by Khorn Ream</em>
-  <br>
-  <em>Last updated: May 2025</em>
-</p>
+<div align="center">
+  <sub>Built with ❤️ by Khorn Ream · Cambodia · 2025</sub>
+</div>
