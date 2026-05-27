@@ -1,6 +1,11 @@
 <div align="center">
 
-<img src="./Ream.png" alt="Khorn Ream" width="120" style="border-radius: 50%;" />
+<img 
+  src="./Ream.png" 
+  alt="Khorn Ream." 
+  width="180"
+  style="border-radius: 50%; border: 5px solid #58a6ff; box-shadow: 0 10px 30px rgba(0,0,0,0.25);" 
+/>
 
 # Hi, I'm Khorn Ream 👋
 
