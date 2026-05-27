@@ -2,7 +2,7 @@
 
 <img 
   src="./Ream.png" 
-  alt="Khorn Ream"
+  alt="Khorn Ream."
   width="170"
   style="border-radius:50%; border:4px solid #58a6ff; box-shadow:0 10px 30px rgba(88,166,255,0.35);"
 />
